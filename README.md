@@ -7,7 +7,7 @@ What I did instead is something way more primitive. This project uses nothing bu
 Live App
 ------------
 Check out a live preview of it over here:  
-http://nebez.github.io/floppybird/
+http://reiterbenjamin.github.io/flappy_t-rex/index.html
 
 Cool Stuff
 ---------
